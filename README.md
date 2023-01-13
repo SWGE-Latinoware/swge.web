@@ -41,6 +41,14 @@ Para a execução de algumas funcionalidades dentro sistema, é necessário a ut
 - __PAGSEGURO_PUBLIC_KEY__: Credencial da chave pública do PagSeguro. Para ambiente *sandbox*[^1], essa chave é comum e encontrada nos tutoriais da PagSeguro. Ela serve para a criptografia do cartão de crédito inserido no pagamento;
 - __PAYPAL_CLIENT_ID__: Credencial da Identificação do Cliente PayPal, ele serve para conectar ao serviço PayPal para utilizar as funcionalidades de pagamento.
 
+### __Variáveis de Integração e Entrega Contínua(CICD)__:
+Caso tenha a necessidade ou curiosidade de adicionar a metodologia DevOps de Integração e Entrega Contínua no projeto utilizando o GitLab ou softwares parecidos, o projeto possui um arquivo configurado de Pipelines (.gitlab-ci.yml) que possui integração com outros softwares de controle de código e versionamento de imagens de containers. As variáveis necessárias para utilizar o CI/CD devem ser adicionados dentro da plataforma do serviço de gerencimento de CI/CD escolhido com os seguintes nomes: 
+- __$HB_USER__: Usuário do Serviço Harbor, que faz um host de um repositorio de imagens docker;
+- __$HB_PASS__: Senha do usuário do Serviço Harbor;
+- __$Server_HOST__: Url do host aonde o Serviço Harbor está hospedado;
+- __$IMG_TEST__: URL do diretório de arquivos para armazenar as imagens do projeto quando o ciclo está em desenvolvimento;
+- __$IMG_PRO__: URL do diretório de arquivos para armazenar as imagens do projeto quando o ciclo está em produção
+
 ## Colaboradores ##
 <picture>
   <img src="/metrics.plugin.people.repository.svg" alt="Colaboradores">
