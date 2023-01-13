@@ -55,8 +55,9 @@ Caso tenha a necessidade ou curiosidade de adicionar a metodologia DevOps de Int
 </picture>
 
 ## Parceria
-<img src="/.github/logos/PTI-Logo.png" alt="PTI" width="200">
-<img src="/.github/logos/IB-Logo.png" alt="IB"  width="200">
+<img src="/.github/logos/PTI-Logo.png" alt="PTI" width="300">
+
+<img src="/.github/logos/IB-Logo.png" alt="IB"  width="300">
 
 [^1]: Ambiente de teste a qual não reconhece a cobrança como uma cobrança real, não sendo feito a dedução do valor na conta. Para esses ambientes, ambas as APIs fornecem contas ou cartões de teste para simulação. O PayPal disponibiliza contas de teste que possuem cartões atrelado a conta, é possível saber essas contas atráves deste [link](https://developer.paypal.com/dashboard/accounts), onde é apresentado duas contas de teste, sendo uma o comerciante e outra o cliente(a que deve ser utilizada). Já para o PagSeguro neste [link](https://dev.pagseguro.uol.com.br/reference/testing-cards) possui cartões de teste para a realização de cobranças de teste.
 [^2]: Ambiente de uso real, onde todas os valores das cobranças vão ser deduzidas da conta e colocadas na conta de recebimento.
