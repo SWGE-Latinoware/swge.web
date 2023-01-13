@@ -9,8 +9,10 @@
 
 
 ## __Front-End Sistema Web Gerenciador de Eventos__
-
-[![Npm package version](https://badgen.net/npm/v/express)](https://npmjs.com/package/express)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
 Front-End desenvolvido em ReactJS(v17) para o projeto SWGE. Um projeto que tem como objetivo o gerenciamento de Eventos, desde cadastro de usuário, atividades, trilhas, edições, certificados, caravanas, e etc. As interfaces foram produzidas utilizando ferrametas como:
 - `MUIv5(Material-UI)`;
