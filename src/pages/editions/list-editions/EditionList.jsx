@@ -82,12 +82,12 @@ const EditionList = () => {
       },
       {
         name: 'actions',
-        sort: false,
-        searchable: false,
-        viewColumn: false,
         label: ' ',
         options: {
           filter: false,
+          sort: false,
+          searchable: false,
+          viewColumns: false,
           customBodyRenderLite: () => (
             <IconButton tabIndex={-1}>
               <EditIcon />
