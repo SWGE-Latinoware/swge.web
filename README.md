@@ -37,7 +37,7 @@ A partir de *clone* (`git clone https://github.com/ta-iot/swge.web.git`), é nec
 
 ## __Variáveis de Ambiente:__
 Para a execução de algumas funcionalidades dentro sistema, é necessário a utilização de algumas variáveis de ambiente, que servem para repassar as credenciais ou informações dinâmicas. Elas são:
-- __LGPD_LINK__: Link para a página aonde se concentra as informações sobre as diretrizes e contatos da LGPD responsável do projeto ou instituição;
+- __LGPD_LINK__: Link para a página aonde se concentra as informações sobre as diretrizes e contatos da LGPD responsáveis do projeto ou instituição;
 - __PAGSEGURO_PUBLIC_KEY__: Credencial da chave pública do PagSeguro. Para ambiente *sandbox*[^1], essa chave é comum e encontrada nos tutoriais da PagSeguro. Ela serve para a criptografia do cartão de crédito inserido no pagamento;
 - __PAYPAL_CLIENT_ID__: Credencial da Identificação do Cliente PayPal, ele serve para conectar ao serviço PayPal para utilizar as funcionalidades de pagamento.
 
