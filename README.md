@@ -41,7 +41,7 @@ Para a execução de algumas funcionalidades dentro sistema, é necessário a ut
 - __PAGSEGURO_PUBLIC_KEY__: Credencial da chave pública do PagSeguro. Para ambiente *sandbox*[^1], essa chave é comum e encontrada nos tutoriais da PagSeguro. Ela serve para a criptografia do cartão de crédito inserido no pagamento;
 - __PAYPAL_CLIENT_ID__: Credencial da Identificação do Cliente PayPal, ele serve para conectar ao serviço PayPal para utilizar as funcionalidades de pagamento.
 
-## Colaboradores
+## Colaboradores ##
 <picture>
   <img src="/metrics.plugin.people.repository.svg" alt="Colaboradores">
 </picture>
