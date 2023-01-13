@@ -2,7 +2,7 @@
   <picture>
     <img align="center" src="/metrics.plugin.licenses.svg" alt="Licenças">
   </picture>
-  <a target="_blank" href="https://github.com/ta-iot/swge.web">
+  <a target="_blank" href="https://github.com/ta-iot/swge.api">
     <img align="center" src="/metrics.plugin.repositories.svg" alt="Repositórios Vinculados">
   </a>
 </div>
