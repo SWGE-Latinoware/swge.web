@@ -10,6 +10,8 @@
 
 ## __Front-End Sistema Web Gerenciador de Eventos__
 
+[![Npm package version](https://badgen.net/npm/v/express)](https://npmjs.com/package/express)
+
 Front-End desenvolvido em ReactJS(v17) para o projeto SWGE. Um projeto que tem como objetivo o gerenciamento de Eventos, desde cadastro de usuário, atividades, trilhas, edições, certificados, caravanas, e etc. As interfaces foram produzidas utilizando ferrametas como:
 - `MUIv5(Material-UI)`;
 - `FullCalendar`;
