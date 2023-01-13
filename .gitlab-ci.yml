@@ -33,7 +33,7 @@ deploy_test:
     - develop
   image: docker
   script:
-    - docker login -u $Harbor_USER -p $Harbor_PASS https://tadt-api.pti.foz.br/
+    - docker login -u $Harbor_USER -p $Harbor_PASS $Server_HOST
     - docker build . -t $IMG_NAME_TEST:latest -t $IMG_NAME_TEST:$CI_COMMIT_SHA
     - docker push $IMG_NAME_TEST:latest
     - docker push $IMG_NAME_TEST:$CI_COMMIT_SHA
@@ -44,7 +44,7 @@ deploy_prod:
     - master
   image: docker
   script:
-    - docker login -u $Harbor_USER -p $Harbor_PASS https://tadt-api.pti.foz.br/
+    - docker login -u $Harbor_USER -p $Harbor_PASS $Server_HOST
     - docker build . -t $IMG_NAME_PROD:latest -t $IMG_NAME_PROD:$CI_COMMIT_SHA
     - docker push $IMG_NAME_PROD:latest
     - docker push $IMG_NAME_PROD:$CI_COMMIT_SHA
