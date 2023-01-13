@@ -1,0 +1,50 @@
+image: node:14.18.1
+
+stages:
+  - eslint
+  - build
+  - deploy_test
+  - deploy_prod
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
+eslint:
+  stage: eslint
+  before_script:
+    - npm install
+  script:
+    - npx eslint --ext .jsx,.js src/
+
+build:
+  stage: build
+  before_script:
+    - npm install
+  script:
+    - REACT_APP_LGPD_LINK=$LGPD_LINK REACT_APP_PAGSEGURO_PUBLIC_KEY=$PAGSEGURO_PUBLIC_KEY REACT_APP_PAYPAL_CLIENT_ID=$PAYPAL_CLIENT_ID npm run build
+  artifacts:
+    expire_in: 1 hour
+    paths:
+      - build
+
+deploy_test:
+  stage: deploy_test
+  only:
+    - develop
+  image: docker
+  script:
+    - docker login -u $Harbor_USER -p $Harbor_PASS https://tadt-api.pti.foz.br/
+    - docker build . -t $IMG_NAME_TEST:latest -t $IMG_NAME_TEST:$CI_COMMIT_SHA
+    - docker push $IMG_NAME_TEST:latest
+    - docker push $IMG_NAME_TEST:$CI_COMMIT_SHA
+
+deploy_prod:
+  stage: deploy_prod
+  only:
+    - master
+  image: docker
+  script:
+    - docker login -u $Harbor_USER -p $Harbor_PASS https://tadt-api.pti.foz.br/
+    - docker build . -t $IMG_NAME_PROD:latest -t $IMG_NAME_PROD:$CI_COMMIT_SHA
+    - docker push $IMG_NAME_PROD:latest
+    - docker push $IMG_NAME_PROD:$CI_COMMIT_SHA
