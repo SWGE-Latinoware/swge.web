@@ -25,6 +25,14 @@ jobs:
           plugin_people_types: contributors, thanks
           plugin_people_size: 64
           plugin_people_thanks: RafaelSantosBraz
+      - name: Featured repositories
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.repositories.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_featured: ta-iot/swge.api
       - name: Licenses and permissions
         uses: lowlighter/metrics@latest
         with:
@@ -35,11 +43,3 @@ jobs:
           repo: swge.web
           user: ta-iot
           plugin_licenses: yes
-      - name: Featured repositories
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.repositories.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_repositories: yes
-          plugin_repositories_featured: ta-iot/swge.api
