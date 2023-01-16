@@ -53,7 +53,7 @@ Caso tenha a necessidade ou curiosidade de adicionar a metodologia DevOps de Int
 - __$IMG_TEST__: URL do diretório de arquivos para armazenar as imagens do projeto quando o ciclo está em desenvolvimento;
 - __$IMG_PRO__: URL do diretório de arquivos para armazenar as imagens do projeto quando o ciclo está em produção
 
-## Colaboradores ##
+###  Colaboradores  ###
 <picture>
   <img src="/metrics.plugin.people.repository.svg" alt="Colaboradores">
 </picture>
