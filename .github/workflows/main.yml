@@ -37,7 +37,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.licenses.web.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_LICENSE }}
           base: ""
           template: repository
           repo: swge.web
