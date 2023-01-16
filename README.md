@@ -6,7 +6,7 @@
     <img align="center" src="/metrics.plugin.repositories.svg" alt="Repositórios Vinculados">
   </a>
 </div>
-
+ 
  
 ## __Front-End Sistema Web para Gestão de Eventos__
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
