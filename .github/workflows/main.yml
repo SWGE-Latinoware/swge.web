@@ -36,10 +36,11 @@ jobs:
       - name: Licenses and permissions
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.licenses.svg
+          filename: metrics.plugin.licenses.web.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           template: repository
           repo: swge.web
           user: ta-iot
           plugin_licenses: yes
+          plugin_licenses_ratio: yes
