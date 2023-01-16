@@ -1,4 +1,4 @@
-name: Metrics
+name: Metrics Web
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
@@ -34,14 +34,13 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_featured: ta-iot/swge.api
       - name: Licenses with open-source ratio graphs
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@main
         with:
           filename: metrics.plugin.licenses.ratio.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_LICENSE }}
           base: ""
           template: repository
           repo: swge.web
-          user: ta-iot
           plugin_licenses: yes
           plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
           plugin_licenses_ratio: yes
