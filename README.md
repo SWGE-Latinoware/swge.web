@@ -35,6 +35,7 @@ Para a utilização do Front-End, é necessário possuir na máquina a qual vai 
 A partir de *clone* (`git clone https://github.com/ta-iot/swge.web.git`), é necessário a execução da instalação dos módulos escolhidos dentro do arquivo `package.json`, neste caso utilizando o comando `npm install`. 
 
 ### __Requisitos:__
+
 - Node;
 - Ambiente de Desenvolvimento voltado a desenvolvimento Web (WebStorm, Visual Studio Code, Intellij, etc..);
 - API instalada e rodando.
