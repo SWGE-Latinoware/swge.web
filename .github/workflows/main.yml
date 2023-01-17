@@ -34,7 +34,7 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_featured: ta-iot/swge.api
       - name: Licenses with open-source ratio graphs
-        uses: lowlighter/metrics@main
+        uses: lowlighter/metrics@master
         with:
           filename: license.svg
           token: ${{ secrets.METRICS_LICENSE }}
