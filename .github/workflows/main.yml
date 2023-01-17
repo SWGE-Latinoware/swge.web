@@ -33,15 +33,13 @@ jobs:
           base: ""
           plugin_repositories: yes
           plugin_repositories_featured: ta-iot/swge.api
-      - name: Licenses with open-source ratio graphs
-        uses: lowlighter/metrics@master
+      - name: Licenses and permissions
+        uses: lowlighter/metrics@latest
         with:
-          filename: license.svg
-          token: ${{ secrets.METRICS_LICENSE }}
+          filename: metrics.plugin.licenses.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           template: repository
-          repo: swge.web
+          repo: swge.api
           user: ta-iot
           plugin_licenses: yes
-          plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
-          plugin_licenses_ratio: yes
