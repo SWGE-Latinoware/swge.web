@@ -40,6 +40,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           template: repository
-          repo: swge-web
+          repo: swge.api
           user: ta-iot
           plugin_licenses: yes
