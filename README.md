@@ -1,6 +1,6 @@
 <div style="width:100%; display: flex; flex-direction: row; justify-content: center;">
   <picture>
-    <img align="center" src="/metrics.plugin.licenses.svg" alt="Licenças">
+    <img align="center" src="/licenses-gnu3.svg" alt="Licenças">
   </picture>
   <a target="_blank" href="https://github.com/ta-iot/swge.api">
     <img align="center" src="/metrics.plugin.repositories.svg" alt="Repositórios Vinculados">
