@@ -39,6 +39,7 @@ jobs:
           filename: license.svg
           token: ${{ secrets.METRICS_LICENSE }}
           base: ""
+          user: ta-iot
           template: repository
           plugin_licenses: yes
           plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
