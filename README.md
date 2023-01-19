@@ -73,6 +73,9 @@ Caso tenha a necessidade ou curiosidade de adicionar a metodologia DevOps de Int
       <td align="center"><a href="https://www.linkedin.com/in/carlos-henrique-leite-217324135/"><img src="https://media.licdn.com/dms/image/C4E03AQHFO2tjH8MwWw/profile-displayphoto-shrink_200_200/0/1540945406159?e=1679529600&v=beta&t=1tmx703CDUdkO8yRyYqbx9WowoB3p1rhjMGKCKAXa7k" width="100px;" alt="carlos-henrique-leite-217324135"  style="border-radius: 50%"/><br /><sub><b>Carlos Henrique</b></sub></a><br /><span style="font-size: 14px;">DevOps</span></td>
       <td align="center"><a href="https://www.linkedin.com/in/mateusschindler"><img src="https://media.licdn.com/dms/image/C4D03AQHuTy6xiXHpag/profile-displayphoto-shrink_200_200/0/1578070070592?e=1679529600&v=beta&t=j6gje_Nj1PcepHD09B6SRVKQtzYUX1CPmIz6-YazwaY" width="100px;" alt="mateusschindler"  style="border-radius: 50%"/><br /><sub><b>Mateus Schindler</b></sub></a><br /><span style="font-size: 14px;">Apoio Documentação</span></td>
     </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/SGSNT"><img src="https://avatars.githubusercontent.com/u/122492375?v=4?s=100" width="100px;" alt="SGSNT"  style="border-radius: 50%"/><br /><sub><b>Samuel Dos Santos</b></sub></a><br /><span style="font-size: 14px;">Apoio Documentação</span></td>
+    </tr>
   </tbody>
 </table>
 
