@@ -60,7 +60,7 @@ Caso tenha a necessidade ou curiosidade de adicionar a metodologia DevOps de Int
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/RafaelSantosBraz"><img src="https://avatars.githubusercontent.com/u/20260521?v=4?s=100" width="100px;" alt="RafaelSantosBraz" style="border-radius: 50%"/><br /><sub><b>Rafael Braz</b></sub></a><br /><span style="font-size: 14px;">Desenvolvedor</span></td>
+      <td align="center"><a href="https://github.com/RafaelSantosBraz"><img src="https://avatars.githubusercontent.com/u/20260521?v=4?s=100" width="100px;" alt="RafaelSantosBraz" style="border-radius: 50%"/><br /><sub><b>Rafael Braz</b></sub></a><br /><span style="font-size: 14px;">&#127775; Desenvolvedor</span></td>
       <td align="center"><a href="https://github.com/natarafael"><img src="https://avatars.githubusercontent.com/u/52220532?v=4?s=100" width="100px;" alt="natarafael"  style="border-radius: 50%"/><br /><sub><b>Natã Rafael</b></sub></a><br /><span style="font-size: 14px;">Desenvolvedor</span></td>
       <td align="center"><a href="https://github.com/GRSganderla"><img src="https://avatars.githubusercontent.com/u/37743155?v=4?s=100" width="100px;" alt="GRSganderla"  style="border-radius: 50%"/><br /><sub><b>Guilherme R.</b></sub></a><br /><span style="font-size: 14px;">Desenvolvedor</span></td>
       <td align="center"><a href="https://github.com/val-ery7793"><img src="https://avatars.githubusercontent.com/u/30504079?v=4?s=100" width="100px;" alt="val-ery7793"  style="border-radius: 50%"/><br /><sub><b>Valéria Nunes</b></sub></a><br /><span style="font-size: 14px;">Gestão de Projeto</span></td>
