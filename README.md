@@ -54,9 +54,32 @@ Caso tenha a necessidade ou curiosidade de adicionar a metodologia DevOps de Int
 - __$IMG_PRO__: URL do diretório de arquivos para armazenar as imagens do projeto quando o ciclo está em produção
 
 ###  Colaboradores  ###
-<picture>
-  <img src="/metrics.plugin.people.repository.svg" alt="Colaboradores">
-</picture>
+<!-- ALL-CONTRIBUTORS-LIST:START -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/RafaelSantosBraz"><img src="https://avatars.githubusercontent.com/u/20260521?v=4?s=100" width="100px;" alt="RafaelSantosBraz" style="border-radius: 50%"/><br /><sub><b>Rafael Braz</b></sub></a><br /><span style="font-size: 14px;">Desenvolvedor</span></td>
+      <td align="center"><a href="https://github.com/natarafael"><img src="https://avatars.githubusercontent.com/u/52220532?v=4?s=100" width="100px;" alt="natarafael"  style="border-radius: 50%"/><br /><sub><b>Natã Rafael</b></sub></a><br /><span style="font-size: 14px;">Desenvolvedor</span></td>
+      <td align="center"><a href="https://github.com/GRSganderla"><img src="https://avatars.githubusercontent.com/u/37743155?v=4?s=100" width="100px;" alt="GRSganderla"  style="border-radius: 50%"/><br /><sub><b>Guilherme R.</b></sub></a><br /><span style="font-size: 14px;">Desenvolvedor</span></td>
+      <td align="center"><a href="https://github.com/val-ery7793"><img src="https://avatars.githubusercontent.com/u/30504079?v=4?s=100" width="100px;" alt="val-ery7793"  style="border-radius: 50%"/><br /><sub><b>Valéria Nunes</b></sub></a><br /><span style="font-size: 14px;">Gestão de Projeto</span></td>
+      <td align="center"><a href="https://github.com/TheodoroFelipe"><img src="https://avatars.githubusercontent.com/u/109289048?v=4?s=100" width="100px;" alt="TheodoroFelipe"  style="border-radius: 50%"/><br /><sub><b>Felipe Theodoro</b></sub></a><br /><span style="font-size: 14px;">LGPD/Documentação</span></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://www.linkedin.com/in/marcos-dellazari-7335b483/"><img src="https://media.licdn.com/dms/image/C4E03AQEGpHdT-Qg_EA/profile-displayphoto-shrink_200_200/0/1516893619771?e=1679529600&v=beta&t=T9Q-5XDHrDX4LC89aS5by0j9sn3Xc3bUIAfyXLLFASc" width="100px;" alt="marcos-dellazari-7335b483"  style="border-radius: 50%"/><br /><sub><b>Marcos Dellazari</b></sub></a><br /><span style="font-size: 14px;">PMO Itaipu</span></td>
+      <td align="center"><a href="https://www.linkedin.com/in/gilson-dias-de-oliveira-550900220/"><img src="https://avatars.githubusercontent.com/u/108937049?v=4?s=100" width="100px;" alt="GilsonDiasOliveira"  style="border-radius: 50%"/><br /><sub><b>Gilson Dias</b></sub></a><br /><span style="font-size: 14px;">Testes/QA</span></td>
+      <td align="center"><a href="https://www.linkedin.com/in/andr%C3%A9-domingos-vasconcelos/"><img src="https://media.licdn.com/dms/image/C5603AQFPYVvwxHuwgA/profile-displayphoto-shrink_200_200/0/1554317112258?e=1679529600&v=beta&t=bI2RHBs8sr67z1GNzA1LCej2oI_-WBJRmit-JxqNrGs" width="100px;" alt="andré-domingos-vasconcelos"  style="border-radius: 50%"/><br /><sub><b>André Domingos</b></sub></a><br /><span style="font-size: 14px;">Design</span></td>
+      <td align="center"><a href="https://www.linkedin.com/in/carlos-henrique-leite-217324135/"><img src="https://media.licdn.com/dms/image/C4E03AQHFO2tjH8MwWw/profile-displayphoto-shrink_200_200/0/1540945406159?e=1679529600&v=beta&t=1tmx703CDUdkO8yRyYqbx9WowoB3p1rhjMGKCKAXa7k" width="100px;" alt="carlos-henrique-leite-217324135"  style="border-radius: 50%"/><br /><sub><b>Carlos Henrique</b></sub></a><br /><span style="font-size: 14px;">DevOps</span></td>
+      <td align="center"><a href="https://www.linkedin.com/in/mateusschindler"><img src="https://media.licdn.com/dms/image/C4D03AQHuTy6xiXHpag/profile-displayphoto-shrink_200_200/0/1578070070592?e=1679529600&v=beta&t=j6gje_Nj1PcepHD09B6SRVKQtzYUX1CPmIz6-YazwaY" width="100px;" alt="mateusschindler"  style="border-radius: 50%"/><br /><sub><b>Mateus Schindler</b></sub></a><br /><span style="font-size: 14px;">Apoio Documentação</span></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## Parceria ##
 <img src="/.github/logos/PTI-Logo.png" alt="PTI" width="400">
