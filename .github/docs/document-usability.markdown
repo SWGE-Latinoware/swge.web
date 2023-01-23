@@ -1,21 +1,23 @@
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
 **FUNDAÇÃO PARQUE TECNOLÓGICO DE ITAIPU**
 
@@ -23,28 +25,31 @@
 
 **Versão 1.1**
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
 ***EQUIPE RESPONSÁVEL***
 
@@ -79,28 +84,31 @@ height="0.5208333333333334in"}
 - [Marcos Siríaco](./../../README.md#colaboradores)
 - [Luciano Lourenço Da Silva](./../../README.md#colaboradores)
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
 **1.** **INTRODUÇÃO**                  
 
@@ -117,105 +125,109 @@ início. Abaixo é se acaso for encontrado algum problema no sistema ou se
 o usuário quiser fornecer a sua sugestão sobre o sistema ele poderá ir
 em feedback e após em meus feedbacks.
 
-![](../logos/image4.png){width="6.266665573053368in" height="2.8888877952755907in"}
+![](../logos/image4.png)
 
 Selecionando a setinha que fica no canto superior direito o usuário
 poderá acessar os dados de sua conta ou poderá sair de sua conta.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image5.png){width="1.1875in"
-height="1.176388888888889in"}
+![](../logos/image5.png)
 
 Clicando na bandeira que fica ao lado da setinha podemos alterar o
 idioma do sistema.
 
-![](../logos/image6.png){width="1.1666666666666667in"
-height="1.0625in"}
+![](../logos/image6.png)
 
 Ao clicarmos no sol que fica ao lado do alterar idioma poderemos alterar
 o tema atual do sistema, por padrão ele vem no modo branco e se
 quisermos alterá-lo basta apenas clicarmos na lua que assim ele irá
 mudar para o modo escuro.
 
-![](../logos/image7.png){width="6.266666666666667in"
-height="2.874998906386702in"}
+![](../logos/image7.png)
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image8.png){width="6.266666666666667in"
-height="2.859722222222222in"}
+![](../logos/image8.png)
 
 Clicando no número 2222 poderemos ver uma lista de todas as edições do
 momento, nela podemos selecionar a edição que queremos.
 
-![](../logos/image9.png){width="0.5625in"
-height="4.259722222222222in"}
+![](../logos/image9.png)
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
 Selecionando o ponto de interrogação teremos acesso a opção de ajuda, ao
 clicarmos sobre ela uma mão azul surgirá apontando para a setinha e ao
@@ -223,11 +235,9 @@ apertarmos para onde ela está apontando nos será mostrado uma tela de
 demonstração, que ajudará o usuário a entender para que cada uma
 daquelas quatro opções serve.
 
-![](../logos/image10.png){width="1.3541666666666667in"
-height="0.5833333333333334in"}
+![](../logos/image10.png)
 
-![](../logos/image11.png){width="2.6875in"
-height="3.3027777777777776in"}
+![](../logos/image11.png)
 
 E por fim, ao selecionarmos as três barrinhas que ficam ao lado da
 escrita Latinoware 2022, teremos acesso ao menu auxiliar. É através dele
@@ -237,30 +247,33 @@ que poderemos ter acesso a todas as opções e funcionalidades do sistema.
 Selecionando o menu auxiliar teremos acesso a opção minha conta, nela o
 usuário preencherá todas as suas informações pessoais.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image12.png){width="2.9069444444444446in" height="0.7388888888888889in"}
+![](../logos/image12.png)
 
 Como mostrado na imagem abaixo ele deverá informar seu nome, seu e-mail,
 abaixo ele terá o seu id que já vem preenchido, deverá também informar
@@ -271,43 +284,43 @@ biografia, se desejar poderá colocar os links de suas redes sociais como
 o GitHub, poderá colocar seu id orcid, o link de seu website se tiver
 algum e o link de seu currículo lattes caso tenha um.
 
-![](../logos/image13.png){width="6.266666666666667in"
-height="2.875in"}
+![](../logos/image13.png)
 
 Descendo um pouco mais a tela teremos acesso a opção de editar perfil.
 
-![](../logos/image14.png){width="2.8222222222222224in"
-height="1.375in"}
+![](../logos/image14.png)
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
 Clicando nela o usuário será direcionado à esta tela, aqui ele poderá
 fazer a alteração de suas informações bem como adicionar mais algum
 outro campo que ele queira.
 
-![](../logos/image15.png){width="6.266666666666667in"
-height="2.8472222222222223in"}
+![](../logos/image15.png)
 
 O usuário poderá também receber as informações da Latinoware em seu
 e-mail marcando o campo abaixo, e também poderá permitir que a
@@ -316,84 +329,85 @@ contato com o usuário, ao final se adicionado todas as informações o
 usuário poderá salvá-las, poderá cancelar a ação ou solicitar ao sistema
 a exclusão de sua conta.
 
-![](../logos/image16.png){width="6.266666666666667in"
-height="0.6805555555555556in"}
+![](../logos/image16.png)
 
 **2.3** **Meus Certificados**\
 Ao selecionarmos o menu auxiliar teremos acesso a opção meus
 certificados, aqui os usuários poderão ver todos os certificados que
 eles têm disponível.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image17.png){width="2.875in"
-height="0.9472222222222222in"}
+![](../logos/image17.png)
 
 Nesta tela o usuário poderá ver o nome das atividades, a trilha a qual
 ela pertence, o tipo do certificado, a data que ele estará disponível,
 poderá também fazer a pré-visualização do certificado e ao final poderão
 visualizá-lo.
 
-![](../logos/image18.png){width="6.266666666666667in"
-height="2.0555555555555554in"}
+![](../logos/image18.png)
 
 Selecionando a lupa que fica no canto superior direito o usuário poderá
 pesquisar pelo nome da atividade.
 
-![](../logos/image19.png){width="6.266666666666667in"
-height="0.6944444444444444in"}
+![](../logos/image19.png)
 
 E ao selecionar as três barrinhas brancas que ficam ao lado da lupa os
 usuários poderão ver todas as colunas, caso ele queira procurar por uma
 informação em específico ele poderá marcar a opção a qual ela pertence e
 desmarcar as demais.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image20.png){width="3.1875in"
-height="2.551388888888889in"}
+![](../logos/image20.png)
 
 **2.4 Secretária**\
 Ao selecionarmos o menu auxiliar teremos acesso a opção secretária,
@@ -401,37 +415,39 @@ selecionando a setinha que fica no canto superior direito teremos acesso
 ao submenu com outras três opções dentro dela, etiquetas, cadastrar
 usuário e a gerenciar inscrições.
 
-![](../logos/image21.png){width="2.761111111111111in" height="2.698610017497813in"}
+![](../logos/image21.png)
 
 **2.4.1 Etiquetas**\
 Nesta tela nos é apresentado o nome do usuário bem como o nome que ele
 escolheu para pôr em seu crachá.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image22.png){width="6.266666666666667in"
-height="2.861111111111111in"}
+![](../logos/image22.png)
 
 Se o usuário selecionar a lupa poderá fazer uma pesquisa pelo nome ou
 pelo nome para crachá do usuário, já se selecionar as três barrinhas ao
@@ -444,31 +460,33 @@ filtrar pelo nome de um usuário em específico.
 Já nesta tela temos as mesmas opções do item acima, muda apenas que
 nesta terá apenas usuários tutelados.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image23.png){width="6.266666666666667in"
-height="2.859722222222222in"}
+![](../logos/image23.png)
 
 Se o usuário selecionar a lupa poderá fazer uma pesquisa pelo nome ou
 pelo nome para crachá do usuário, já se selecionar as três barrinhas ao
@@ -481,31 +499,33 @@ filtrar pelo nome de um usuário em específico.
 Aqui podemos ver o nome das caravanas e também o número de usuários
 cadastrados em cada uma delas.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image24.png){width="6.266666666666667in"
-height="2.861111111111111in"}
+![](../logos/image24.png)
 
 Se o usuário selecionar a lupa poderá fazer uma pesquisa pelo nome da
 caravana, já se selecionar as três barrinhas ao lado da lupa podemos ver
@@ -525,31 +545,33 @@ mais um pouco para baixo teremos uma última opção a isentar, se for
 desejado isentar o usuário poderá marcar a caixa, caso não esta opção
 ficará desmarcada.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image25.png){width="6.266666666666667in"
-height="2.901388888888889in"}
+![](../logos/image25.png)
 
 **2.4.5 Gerenciar Inscrições**\
 Nesta primeira tela temos o usuário, data e hora da inscrição, preço e a
@@ -572,38 +594,39 @@ informação em específico ele poderá marcar uma coluna e desmarcar as
 demais. Selecionando a última opção o usuário poderá filtrar pelo nome
 de usuário e pela situação do pagamento.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image26.png){width="6.266666666666667in"
-height="2.845833333333333in"}
+![](../logos/image26.png)
 
 Clicando no lápis que fica após a situação do pagamento poderemos ver as
 informações da inscrição e logo abaixo será apresentado as atividades em
 que o usuário se inscreveu.
 
-![](../logos/image27.png){width="6.266666666666667in"
-height="2.4444444444444446in"}
+![](../logos/image27.png)
 
 **2.4.5.1 Inscrições de Usuários Tutelados**\
 Na inscrição de usuários tutelados temos os mesmos campos que no item
@@ -611,31 +634,33 @@ acima, muda apenas que o usuário deverá entregar ao seu responsável um
 termo de autorização para que assim ele possa prosseguir com sua
 inscrição.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image28.png){width="6.266666666666667in"
-height="2.915277777777778in"}
+![](../logos/image28.png)
 
 **2.5** **Cadastros**\
 Ao acessarmos o menu auxiliar teremos acesso a opção cadastro, e
@@ -644,104 +669,108 @@ a um submenu com oito opções dentro dela, a usuários, caravanas,
 instituições, edições, atividades, trilhas, certificados e por fim
 vouchers.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image29.png){width="2.8333333333333335in"
-height="5.833333333333333in"}
+![](../logos/image29.png)
 
 **2.5.1 Usuários**\
 Nesta tela poderemos ver o nome do usuário, o nome que ele colocou em
 seu usuário, o e se ele está ou não habilitado.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image30.png){width="6.266666666666667in"
-height="2.859722222222222in"}
+![](../logos/image30.png)
 
 Ao clicarmos no lápis que fica logo após o habilitado, poderemos
 atualizar as informações já cadastradas.
 
-![](../logos/image31.png){width="6.266666666666667in"
-height="3.484721128608924in"}
+![](../logos/image31.png)
 
 Selecionando a lupa que fica no canto superior direito podemos fazer uma
 busca por um usuário em específico utilizando as informações que foram
 cadastradas por ele.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image32.png){width="6.219443350831146in"
-height="0.6138888888888889in"}
+![](../logos/image32.png)
 
 Já utilizando a opção que está ao lado da lupa poderemos ver as colunas,
 caso o usuário busque por uma informação em específico poderá deixar
 marcando a coluna a qual ela pertence e desmarcar as demais.
 
-![](../logos/image33.png){width="1.75in"
-height="2.0416666666666665in"}
+![](../logos/image33.png)
 
 Esta terceira opção é a filtro, aqui o usuário verá que existem seções
 divididas entre nome, nome para usuário, o e habilitado. Dentro de cada
@@ -753,31 +782,33 @@ se selecionado algum campo que não queira ele poderá desmarcar clicando
 na opção limpar que fica logo após a escrita filtros e marcar o campo
 correto.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image34.png){width="6.266666666666667in"
-height="6.1097222222222225in"}
+![](../logos/image34.png)
 
 Ao clicarmos na opção de adicionar usuários ou no (mais), seremos
 redirecionados a tela da imagem abaixo, nela o usuário preencherá todas
@@ -796,34 +827,35 @@ marcado.
                                 
 - **Enviar informações da Latinoware por e-mail:** Marcando essa caixa o usuário receberá as informações do evento em seu e-mail.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image35.png){width="6.266666666666667in"
-height="2.9305555555555554in"}
+![](../logos/image35.png)
 
-![](../logos/image36.png){width="6.266666666666667in"
-height="1.9027766841644795in"}
+![](../logos/image36.png)
 
 **2.5.2 Caravanas**
 
@@ -874,45 +906,45 @@ atualizar as informações já
 
 cadastradas.
 
-![](../logos/image37.png){width="6.266666666666667in"
-height="1.8333333333333333in"}
+![](../logos/image37.png)
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
 Selecionando a lupa que fica no canto superior direito podemos fazer uma
 busca por uma caravana em específico utilizando o país, estado, a
 cidade, instituição ou também pelo nome do coordenador da mesma.
 
-![](../logos/image32.png){width="6.219443350831146in"
-height="0.6152777777777778in"}
+![](../logos/image32.png)
 
 Já utilizando a opção que está ao lado da lupa poderemos ver as colunas,
 caso o usuário busque por uma informação em específico poderá deixar
 marcando a coluna a qual ela pertence e desmarcar as demais.
 
-![](../logos/image38.png){width="2.2194444444444446in"
-height="3.75in"}
+![](../logos/image38.png)
 
 Esta terceira opção é a filtro, aqui o usuário verá que existem seções
 divididas entre marcando e situação do pagamento. Dentro de cada uma
@@ -922,35 +954,37 @@ determinada informação de uma das caravanas em específico ele poderá
 marcar um dos campos de algumas das seções abaixo e após ir em aplicar
 filtro, e se
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
 selecionado algum campo que não queira ele poderá desmarcar clicando na
 opção limpar que fica logo após a escrita filtros e marcar o campo
 correto.
 
-![](../logos/image39.png){width="6.266666666666667in"
-height="5.486111111111111in"}
+![](../logos/image39.png)
 
 Ao clicarmos na opção de adicionar caravanas ou no (mais), seremos
 redirecionados a tela da imagem abaixo, nela faremos o cadastro das
@@ -960,34 +994,35 @@ quantidade de vagas, o seu preço o seu tipo. Com todas as informações
 preenchidas corretamente o usuário poderá clicar em salvar para assim
 adicionar uma nova caravana.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image40.png){width="6.266666666666667in"
-height="2.0125in"}
+![](../logos/image40.png)
 
-![](../logos/image41.png){width="6.266666666666667in"
-height="3.5263877952755904in"}
+![](../logos/image41.png)
 
 **2.5.3 Instituições**\
 Nesta tela teremos acesso ao nome da instituição, o seu país, estado e
@@ -998,38 +1033,39 @@ Selecionando a lupa que fica no canto superior direito podemos fazer uma
 busca por uma instituição em específico utilizando o país, estado ou
 também pelo nome da cidade a qual a mesma pertence.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image32.png){width="6.219443350831146in"
-height="0.6138888888888889in"}
+![](../logos/image32.png)
 
 Já utilizando a opção que está ao lado da lupa poderemos ver as colunas,
 caso o usuário busque por uma informação em específico poderá deixar
 marcando a coluna a qual ela pertence e desmarcar as demais.
 
-![](../logos/image42.png){width="1.2291666666666667in"
-height="2.0305544619422573in"}
+![](../logos/image42.png)
 
 Esta terceira opção é a filtro, aqui o usuário verá que existem seções
 divididas entre marcando. Dentro de cada uma dessas seções poderemos ver
@@ -1040,31 +1076,33 @@ algumas das seções abaixo e após ir em aplicar filtro, e se selecionado
 algum campo que não queira ele poderá desmarcar clicando na opção limpar
 que fica logo após a escrita filtros e marcar o campo correto.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image43.png){width="6.266666666666667in"
-height="4.611111111111111in"}
+![](../logos/image43.png)
 
 Ao clicarmos na opção de adicionar caravanas ou no (mais), seremos
 redirecionados a tela da imagem abaixo, nela faremos o cadastro das
@@ -1079,80 +1117,80 @@ Selecionando a lupa que fica no canto superior direito podemos fazer uma
 busca por um nome de um espaço em específico utilizando o seu nome e
 número.
 
-![](../logos/image32.png){width="6.219443350831146in"
-height="0.6138877952755906in"}
+![](../logos/image32.png)
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
 Já utilizando a opção que está ao lado da lupa poderemos ver as colunas,
 caso o usuário busque por uma informação em específico poderá deixar
 marcando a coluna a qual ela pertence e desmarcar as demais.
 
-![](../logos/image44.png){width="1.1666666666666667in"
-height="1.2083333333333333in"}
+![](../logos/image44.png)
 
 Ao clicarmos na opção de inserir espaço ou no (mais), seremos
 redirecionados a tela da imagem abaixo, nela faremos o cadastro de um
 espaço informando seu nome e número, logo após clicamos em inserir.
 
-![](../logos/image45.png){width="6.266666666666667in"
-height="1.1805555555555556in"}
+![](../logos/image45.png)
 
-![](../logos/image46.png){width="6.266666666666667in"
-height="2.9027777777777777in"}
+![](../logos/image46.png)
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
 Ao clicarmos no lápis que fica logo após o habilitado, poderemos
 atualizar as informações já cadastradas.
 
-![](../logos/image47.png){width="6.266666666666667in"
-height="2.9722222222222223in"}
+![](../logos/image47.png)
 
-![](../logos/image48.png){width="6.266666666666667in"
-height="3.1527777777777777in"}
+![](../logos/image48.png)
 
 **2.5.4 Edições**\
 Nesta tela teremos acesso ao nome da edição, o ano que ocorreu ou se
@@ -1161,38 +1199,39 @@ ainda ocorrerá e se está ou não habilitada.
 Selecionando a lupa que fica no canto superior direito podemos fazer uma
 busca por uma edição em específico utilizando o seu nome ou ano.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image32.png){width="6.219443350831146in"
-height="0.6138888888888889in"}
+![](../logos/image32.png)
 
 Já utilizando a opção que está ao lado da lupa poderemos ver as colunas,
 caso o usuário busque por uma informação em específico poderá deixar
 marcando a coluna a qual ela pertence e desmarcar as demais.
 
-![](../logos/image49.png){width="1.4375in"
-height="1.4680544619422573in"}
+![](../logos/image49.png)
 
 Esta terceira opção é a filtro, aqui o usuário verá que existem seções
 divididas entre nome, ano e habilitados. Dentro de cada uma dessas
@@ -1204,31 +1243,33 @@ selecionado algum campo que não queira ele poderá desmarcar clicando na
 opção limpar que fica logo após a escrita filtros e marcar o campo
 correto.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image50.png){width="6.266666666666667in"
-height="4.1375in"}
+![](../logos/image50.png)
 
 Ao clicarmos na opção de nova edição ou no (mais), seremos
 redirecionados a tela da imagem abaixo, nela faremos o cadastro de uma
@@ -1236,40 +1277,40 @@ nova edição informando seu nome, sua sigla, data de início e fim, se ela
 será presencial, virtual ou híbrida, local da sede, o ano em que ela irá
 ocorrer e se está habilitada.
 
-![](../logos/image51.png){width="6.266666666666667in"
-height="1.2916666666666667in"}
+![](../logos/image51.png)
 
 Ao clicarmos no lápis que fica logo após o habilitado, poderemos
 atualizar as informações já cadastradas.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image52.png){width="6.266666666666667in"
-height="1.5138877952755905in"}
+![](../logos/image52.png)
 
-![](../logos/image53.png){width="6.266666666666667in"
-height="3.208332239720035in"}
+![](../logos/image53.png)
 
 **2.5.5 Atividades**
 
@@ -1283,38 +1324,39 @@ busca por uma
 
 atividade em específico utilizando o nome, trilha e pelo seu valor.
 
-![](../logos/image32.png){width="6.219443350831146in"
-height="0.6138877952755906in"}
+![](../logos/image32.png)
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
 Já utilizando a opção que está ao lado da lupa poderemos ver as colunas,
 caso o usuário busque por uma informação em específico poderá deixar
 marcando a coluna a qual ela pertence e desmarcar as demais.
 
-![](../logos/image54.png){width="2.0527777777777776in"
-height="2.5208333333333335in"}
+![](../logos/image54.png)
 
 Esta terceira opção é a filtro, aqui o usuário verá que existem seções
 divididas entre nome, trilha, tipo de atividade e tipo de apresentação.
@@ -1326,31 +1368,33 @@ e após ir em aplicar filtro, e se selecionado algum campo que não queira
 ele poderá desmarcar clicando na opção limpar que fica logo após a
 escrita filtros e marcar o campo correto.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image55.png){width="6.266666666666667in"
-height="3.609722222222222in"}
+![](../logos/image55.png)
 
 Ao clicarmos na opção de nova atividade ou no (mais), seremos
 redirecionados a tela da imagem abaixo, nela faremos o cadastro de uma
@@ -1361,100 +1405,104 @@ dos palestrantes, o local que ocorrerá, sua trilha e a descrição da
 atividade. Após todos os campos estiverem preenchido corretamente
 poderemos salvá-la.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image56.png){width="6.266666666666667in"
-height="3.3875in"}
+![](../logos/image56.png)
 
 Ao clicarmos no lápis que fica logo após o habilitado, poderemos
 atualizar as informações já cadastradas.
 
-![](../logos/image57.png){width="6.266666666666667in"
-height="3.4444444444444446in"}
+![](../logos/image57.png)
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image58.png){width="6.266666666666667in"
-height="3.2069444444444444in"}
+![](../logos/image58.png)
 
 **2.5.6 Agenda**\
 Nesta tela teremos acesso a agenda contendo todas as datas, dias e
 horários que atividades ocorrerão nas salas não somente do Brasil, mas
 nas de todos os outros países onde o evento também estiver ocorrendo.
 
-![](../logos/image59.png){width="6.266666666666667in"
-height="3.194443350831146in"}
+![](../logos/image59.png)
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
 E ao descermos um pouco mais a tela teremos acesso às trilhas, cada
 atividade pertencerá a uma destas 8 trilhas.
 
-![](../logos/image60.png){width="6.266666666666667in"
-height="0.6111111111111112in"}
+![](../logos/image60.png)
 
 **2.5.7 Trilhas**\
 Nesta tela teremos acesso ao nome da trilha, sua data de início e fim.
@@ -1462,15 +1510,13 @@ Nesta tela teremos acesso ao nome da trilha, sua data de início e fim.
 Selecionando a lupa que fica no canto superior direito podemos fazer uma
 busca por uma trilha em específico utilizando o seu nome.
 
-![](../logos/image32.png){width="6.219443350831146in"
-height="0.6152777777777778in"}
+![](../logos/image32.png)
 
 Já utilizando a opção que está ao lado da lupa poderemos ver as colunas,
 caso o usuário busque por uma informação em específico poderá deixar
 marcando a coluna a qual ela pertence e desmarcar as demais.
 
-![](../logos/image61.png){width="1.4888877952755906in"
-height="1.5625in"}
+![](../logos/image61.png)
 
 Esta terceira opção é a filtro, aqui o usuário verá que existem seções
 divididas entre nome, data inicial e final. Dentro de cada uma dessas
@@ -1479,36 +1525,38 @@ cadastrados no sistema, caso seja preciso procurar por uma determinada
 informação de uma das trilhas em específico ele poderá marcar um dos
 campos
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
 de algumas das seções abaixo e após ir em aplicar filtro, e se
 selecionado algum campo que não queira ele poderá desmarcar clicando na
 opção limpar que fica logo após a escrita filtros e marcar o campo
 correto.
 
-![](../logos/image62.png){width="6.266666666666667in"
-height="3.1944444444444446in"}
+![](../logos/image62.png)
 
 Ao clicarmos na opção de nova trilha ou no (mais), seremos
 redirecionados a tela da imagem abaixo, nela faremos o cadastro de uma
@@ -1517,80 +1565,81 @@ dos participantes e palestrantes, a cor na qual ela aparecerá na grade e
 uma breve descrição da mesma. Após todos os campos estiverem preenchidos
 corretamente poderemos salvá-la.
 
-![](../logos/image63.png){width="6.266666666666667in"
-height="2.2777777777777777in"}
+![](../logos/image63.png)
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
 Ao clicarmos no lápis que fica logo após o habilitado, poderemos atualizar as informações já cadastradas.
 
-![](../logos/image64.png){width="6.266666666666667in"
-height="3.0555555555555554in"}
+![](../logos/image64.png)
 
-![](../logos/image65.png){width="6.266666666666667in"
-height="3.179165573053368in"}
+![](../logos/image65.png)
 
 **2.5.8 Certificados**
 
 Nesta tela teremos acesso ao nome do certificado e se ele está ou não
 disponível.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
 Selecionando a lupa que fica no canto superior direito podemos fazer uma
 busca por um certificado em específico utilizando o seu nome.
 
-![](../logos/image32.png){width="6.219443350831146in"
-height="0.6138888888888889in"}
+![](../logos/image32.png)
 
 Já utilizando a opção que está ao lado da lupa poderemos ver as colunas,
 caso o usuário busque por uma informação em específico poderá deixar
 marcando a coluna a qual ela pertence e desmarcar as demais.
 
-![](../logos/image66.png){width="1.6777777777777778in"
-height="1.1777777777777778in"}
+![](../logos/image66.png)
 
 Esta terceira opção é a filtro, aqui o usuário verá que existe uma seção
 nome. Dentro de dela podemos ver as suas informações cadastradas no
@@ -1600,31 +1649,33 @@ aplicar filtro, e se selecionado algum campo que não queira ele poderá
 desmarcar clicando na opção limpar que fica logo após a escrita filtros
 e marcar o campo correto.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image67.png){width="6.266666666666667in"
-height="2.970833333333333in"}
+![](../logos/image67.png)
 
 Ao clicarmos na opção de novo certificado ou no (mais), seremos
 redirecionados a tela da imagem abaixo, nela faremos o cadastro de um
@@ -1632,44 +1683,44 @@ novo certificado informando o seu nome, data e hora de disponibilidade,
 e ao lado podemos habilitar o quer code e adicionar a imagem do
 certificado.
 
-![](../logos/image68.png){width="6.266666666666667in"
-height="3.0138877952755907in"}
+![](../logos/image68.png)
 
 Selecionando a lupa que fica no canto superior direito podemos fazer uma
 busca por um conteúdo em específico utilizando seu próprio nome.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image32.png){width="6.219443350831146in"
-height="0.6152777777777778in"}
+![](../logos/image32.png)
 
 Já utilizando a opção que está ao lado da lupa poderemos ver as colunas,
 caso o usuário busque por uma informação em específico poderá deixar
 marcando a coluna a qual ela pertence e desmarcar as demais.
 
-![](../logos/image69.png){width="1.7083333333333333in"
-height="2.0513877952755903in"}
+![](../logos/image69.png)
 
 Esta terceira opção é a filtro, aqui o usuário verá que existe uma seção
 de conteúdo. Dentro de dela podemos ver as suas informações cadastradas
@@ -1679,37 +1730,38 @@ em aplicar filtro, e se selecionado algum campo que não queira ele
 poderá desmarcar clicando na opção limpar que fica logo após a escrita
 filtros e marcar o campo correto.
 
-![](../logos/image70.png){width="3.738888888888889in"
-height="1.375in"}
+![](../logos/image70.png)
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
 Selecionando a opção ajuda ou (o ponto de interrogação) aparecerá uma
 janela de ajuda explicando um pouco sobre as informações contidas ali.
 
-![](../logos/image71.png){width="4.166666666666667in"
-height="4.968054461942257in"}
+![](../logos/image71.png)
 
 Ao clicarmos na opção de inserir conteúdo dinâmico ou no (mais), seremos
 redirecionados a tela da imagem abaixo, nela faremos o cadastro de um
@@ -1718,67 +1770,69 @@ a família da fonte, escolhendo a cor do texto e abaixo escrevendo uma
 breve descrição sobre o conteúdo. Após todos os campos estiverem
 preenchidos corretamente podemos inseri-lo.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image72.png){width="6.266666666666667in"
-height="2.595833333333333in"}
+![](../logos/image72.png)
 
 E ao clicarmos sobre o ícone do pdf podemos pré-visualizar o nosso
 certificado, após todas as
 formações estiverem preenchidas corretamente poderemos salvar.
 
-![](../logos/image73.png){width="6.266666666666667in"
-height="1.0in"}
+![](../logos/image73.png)
 
-![](../logos/image74.png){width="6.266666666666667in"
-height="3.013888888888889in"}
+![](../logos/image74.png)
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image75.png){width="6.266666666666667in"
-height="3.1930555555555555in"}
+![](../logos/image75.png)
 
 **2.5.9 Voucher**
 
@@ -1787,8 +1841,7 @@ também ao ano da
 
 edição.
 
-![](../logos/image76.png){width="6.266666666666667in"
-height="2.5138877952755907in"}
+![](../logos/image76.png)
 
 Selecionando a lupa que fica no canto superior direito podemos fazer uma
 busca por um
@@ -1798,38 +1851,39 @@ da edição e pelo
 
 ano da edição.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image32.png){width="6.219443350831146in"
-height="0.6152777777777778in"}
+![](../logos/image32.png)
 
 Já utilizando a opção que está ao lado da lupa poderemos ver as colunas,
 caso o usuário busque por uma informação em específico poderá deixar
 marcando a coluna a qual ela pertence e desmarcar as demais.
 
-![](../logos/image77.png){width="1.7291666666666667in"
-height="1.25in"}
+![](../logos/image77.png)
 
 Esta terceira opção é a filtro, aqui o usuário verá que existem seções
 divididas entre e-mail do usuário, nome da edição e pela data da edição.
@@ -1841,38 +1895,39 @@ em aplicar filtro, e se selecionado algum campo que não queira ele
 poderá desmarcar clicando na opção limpar que fica logo após a escrita
 filtros e marcar o campo correto.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image78.png){width="6.266666666666667in"
-height="3.415277777777778in"}
+![](../logos/image78.png)
 
 Ao clicarmos na opção de adicionar voucher ou no (mais), seremos
 redirecionados a tela da imagem abaixo, nela colocaremos o e-mail de um
 usuário e após poderemos clicar em salvar voucher.
 
-![](../logos/image79.png){width="6.266666666666667in"
-height="1.1527766841644795in"}
+![](../logos/image79.png)
 
 **2.6** **Caravanas**
 
@@ -1881,31 +1936,33 @@ selecionando a setinha que fica no canto superior direito nos será
 apresentado um submenu com outras duas opções que se encontram dentro
 dela, a coordenar caravanas e a participar de caravanas.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image80.png){width="2.7291666666666665in"
-height="1.8222211286089238in"}
+![](../logos/image80.png)
 
 **2.6.1 Coordenar Caravanas**
 
@@ -1928,31 +1985,33 @@ responsável apenas por confirmá-la.
 não terá acesso ao sistema. Os usuários desta modalidade poderão ou não
 serem menores de idade.
 
-![](../logos/image81.png){width="5.888888888888889in"
-height="2.515277777777778in"}
+![](../logos/image81.png)
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
 **2.6.2 Gerenciar Caravanas**\
 Nesta tela temos algumas outras opções como, informações da caravana,
@@ -1963,49 +2022,48 @@ caravana como o id, nome, instituição, país, estado, cidade,
 coordenador, as vagas disponíveis, tipo e ao final se o usuário já
 efetuou o pagamento.
 
-![](../logos/image82.png){width="5.655555555555556in"
-height="1.7694444444444444in"}
+![](../logos/image82.png)
 
 - **Mensagens:** Aqui o usuário poderá mandar mensagens ao coordenador.
 
-![](../logos/image83.png){width="5.780555555555556in"
-height="1.3819444444444444in"}
+![](../logos/image83.png)
 
 - **Inscritos na Caravana:** Aqui poderemos ver os usuários que estão
 inscritos na caravana e também os seus dados, se já efetuaram o
 pagamento de sua inscrição e se ela já foi confirmada.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image84.png){width="5.8805555555555555in"
-height="1.6819444444444445in"}
+![](../logos/image84.png)
 
 Ainda dentro desta opção, há mais uma que serve para adicionar novos
 usuários a caravana.
 
-![](../logos/image85.png){width="6.266666666666667in"
-height="3.0972222222222223in"}
+![](../logos/image85.png)
 
 **2.6.3 Participar de Caravanas**\
 Nesta tela temos o nome, país, estado, cidade, instituição, preço,
@@ -2033,105 +2091,109 @@ caravana.
 
 - **Situação da aceitação:** Se o pedido da inscrição foi aceito ou não.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
 Se acaso o usuário desejar procurar por uma caravana em específico ele
 poderá clicar na lupa que fica no canto superior direito.
 
-![](../logos/image86.png){width="6.1777766841644794in"
-height="0.7916666666666666in"}
+![](../logos/image86.png)
 
 Já clicando nas três barrinhas que ficam logo após a lupa ele terá essas
 opções:
 
-![](../logos/image87.png){width="2.6666666666666665in"
-height="4.187498906386701in"}
+![](../logos/image87.png)
 
 Aqui ele poderá marcar e desmarcar as colunas que ele gostaria de ver,
 caso esteja procurando por uma informação em específica ele poderá
 marcar a coluna a que a mesma pertence e desmarcar as demais.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
 Aqui o usuário poderá filtrar as informações pelo vagas, a e pela
 instituição a qual a caravana pertence.
 
-![](../logos/image88.png){width="6.266666666666667in"
-height="5.345833333333333in"}
+![](../logos/image88.png)
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image89.png){width="6.266666666666667in"
-height="2.9569444444444444in"}
+![](../logos/image89.png)
 
 Ainda dentro desta opção, temos uma outra tela que pede ao usuário para
 confirmar se ele realmente deseja se inscrever na caravana ou não.
 
-![](../logos/image90.png){width="6.266666666666667in"
-height="2.5416666666666665in"}
+![](../logos/image90.png)
 
 **2.7** **Inscrições**\
 o selecionarmos o menu auxiliar teremos acesso a opção inscrição,
@@ -2139,31 +2201,33 @@ selecionando a setinha que fica no canto superior direito teremos acesso
 ao submenu com outras duas opções dentro dela, a gerenciar inscrições e
 a minha inscrição.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image91.png){width="2.886111111111111in"
-height="2.0416666666666665in"}
+![](../logos/image91.png)
 
 **2.7.1 Gerenciar Inscrições Gerenciar Inscrições**
 
@@ -2182,84 +2246,85 @@ realizada.
 - **Situação do pagamento:** Se o usuário realizou o pagamento de sua
 inscrição.
 
-![](../logos/image26.png){width="6.268054461942257in"
-height="2.8472222222222223in"}
+![](../logos/image26.png)
 
 Clicando no lápis que fica após a situação do pagamento poderemos ver as
 informações da
 inscrição e logo abaixo será apresentado as atividades em que o usuário
 se inscreveu.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image27.png){width="6.268054461942257in"
-height="2.4444444444444446in"}
+![](../logos/image27.png)
 
 Se selecionada a lupa que fica no canto superior direito, poderá ser
 realizada uma pesquisa pelo nome do usuário cadastrado.
 
-![](../logos/image92.png){width="6.145833333333333in"
-height="0.7180555555555556in"}
+![](../logos/image92.png)
 
 Já clicando nas três barrinhas que ficam logo após a lupa ele terá essas
 opções:
 
-![](../logos/image93.png){width="2.5305555555555554in"
-height="2.75in"}
+![](../logos/image93.png)
 
 Aqui ele poderá marcar e desmarcar as colunas que ele gostaria de ver,
 caso esteja procurando por uma informação em específica ele poderá
 marcar a coluna a que a mesma pertence e desmarcar as demais.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
 Já aqui o usuário poderá filtrar as informações tanto pelo nome do
 usuário quanto pela situação do pagamento caravana.
 
-![](../logos/image94.png){width="6.268054461942257in"
-height="3.638888888888889in"}
+![](../logos/image94.png)
 
 **2.7.2 Inscrições de Usuários Tutelados**\
 Na inscrição de usuários tutelados temos os mesmos campos que no item
@@ -2267,68 +2332,71 @@ acima, muda apenas que o usuário deverá entregar ao seu responsável um
 termo de autorização para que assim ele possa prosseguir com sua
 inscrição.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image28.png){width="6.268054461942257in"
-height="2.9166666666666665in"}
+![](../logos/image28.png)
 
 **2.7.3 Configurar Inscrição**
 
 Aqui nesta tela teremos o id, data e hora do início, data e hora do fim
 do evento e ao final o valor da inscrição.
 
-![](../logos/image95.png){width="6.268054461942257in"
-height="2.1388877952755907in"}
+![](../logos/image95.png)
 
 Clicando no (Mais) que fica no canto superior direito teremos acesso a
 tela onde poderá ser inserido um valor promocional.
 
-![](../logos/image96.png){width="6.268054461942257in"
-height="1.1388888888888888in"}
+![](../logos/image96.png)
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
 **2.7.4 Minha Inscrição**
 
@@ -2336,8 +2404,7 @@ Aqui nesta tela nos é apresentado o valor da inscrição da atividade e o
 valor total, logo abaixo podemos ver as atividades disponíveis e o preço
 de cada uma.
 
-![](../logos/image97.png){width="6.268054461942257in"
-height="2.8472222222222223in"}
+![](../logos/image97.png)
 
 Se selecionarmos o calendário que fica no canto superior direito podemos
 ver a programação de um determinado mês bem como de uma determinada
@@ -2348,73 +2415,75 @@ um dia anterior.
 Clicando nas três barrinhas que ficam ao lado do mês podemos fazer uma
 pesquisa pelo local, trilha, palestrante e pelo responsável.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image98.png){width="6.268054461942257in"
-height="2.9305555555555554in"}
+![](../logos/image98.png)
 
 Já clicando no carrinho somos levados a uma outra página com três opções
 de pagamentos.
 
-![](../logos/image99.png){width="6.256944444444445in"
-height="0.7416666666666667in"}
+![](../logos/image99.png)
 
 **PayPal:**
 
-![](../logos/image100.png){width="6.258333333333334in"
-height="2.2874989063867015in"}
+![](../logos/PTI-Logo00.png)
 
 Utilizando o PayPal o usuário poderá realizar o pagamento utilizando um
 cartão de crédito ou de débito.
 
 **Pag Seguro:**
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image101.png){width="6.268054461942257in"
-height="2.2916666666666665in"}
+![](../logos/PTI-Logo01.png)
 
 Utilizando o pag seguro o usuário deverá inserir seu nome inserir seu
 nome, as informações do seu cartão e ao final escolher se deseja ou não
@@ -2422,8 +2491,7 @@ parcelar.
 
 **Pix:**
 
-![](../logos/image102.png){width="6.268054461942257in"
-height="2.2916666666666665in"}
+![](../logos/PTI-Logo02.png)
 
 Já se o usuário optar realizar o pagamento por pix, ele poderá clicar
 visualizar Qr Code ou chave pix para efetuar o pagamento.
@@ -2434,31 +2502,33 @@ selecionando a setinha que fica no canto superior direito teremos acesso
 ao submenu com outras três opções dentro dela, a grade geral, grade do
 palestrante e a minha grade.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-> ![](../logos/image103.png){width="2.9069444444444446in"
-> height="2.6458333333333335in"}
+> ![](../logos/PTI-Logo03.png)
 
 **2.8.1 Grade Geral**\
 Nesta primeira tela nos será mostrado 4 colunas com os dias da semana e
@@ -2471,37 +2541,38 @@ podemos voltar alguns dias ou avançar em alguns dias. E selecionando as
 barrinhas podemos fazer uma pesquisa pelo local, trilha, palestra e o
 responsável.
 
-![](../logos/image104.png){width="6.266666666666667in"
-height="2.8875in"}
+![](../logos/PTI-Logo04.png)
 
 E ao descermos um pouco mais a tela teremos acesso às trilhas, cada
 atividade pertencerá a uma destas 8 trilhas.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image105.png){width="6.266666666666667in"
-height="0.4861111111111111in"}
+![](../logos/PTI-Logo05.png)
 
 **2.8.2 Grade do Palestrante**\
 Nesta tela o palestrante poderá procurar pelos meses, semanas ou dias em
@@ -2511,39 +2582,40 @@ fazer a procura pelo local, trilha, palestrante e pelo responsável.
 Selecionando as setinhas brancas que ficam no canto superior direito o
 palestrante poderá voltar ou avançar alguns dias.
 
-![](../logos/image106.png){width="6.266666666666667in"
-height="2.861111111111111in"}
+![](../logos/PTI-Logo06.png)
 
 **2.8.3 Minha Grade**\
 Em Minha grade nos é apresentado as mesmas opções que no grade de
 palestrante, com a inserção de duas novas opções que podem ser vistas ao
 lado das três barras e no canto inferior direito.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image107.png){width="6.266666666666667in"
-height="2.859722222222222in"}
+![](../logos/PTI-Logo07.png)
 
 Selecionando o lápis que fica após as três barrinhas podemos fazer a
 edição da grade customizada, ou seja, com ela o usuário poderá exibir
@@ -2556,36 +2628,37 @@ No menu auxiliar, temos disponíveis a sessão feedback, para auxiliar o
 usuário a enviar críticas, sugestões, elogios e reportar bugs do
 sistema. A sessão está dívida em Gerenciar Feedbacks e Meus Feedbacks.
 
-![](../logos/image108.png){width="2.6875in"
-height="1.9055544619422573in"}
+![](../logos/PTI-Logo08.png)
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
 **2.9.1 Gerenciar Feedbacks**
 
-![](../logos/image109.png){width="6.270833333333333in"
-height="2.359722222222222in"}
+![](../logos/PTI-Logo09.png)
 
 Na tela gerenciar feedbacks a organização do evento poderá ver e
 analizar os feedbacks recebidos. É possivel filtra, pesquisar e ordenar
@@ -2599,34 +2672,35 @@ Também é possível baixar imagens que o usuário tenha enviado.
 
 **2.9.2 Meus Feedbacks**
 
-![](../logos/image110.png){width="6.270833333333333in"
-height="1.7402766841644794in"}
+![](../logos/PTI-Logo10.png)
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image111.png){width="6.270833333333333in"
-height="3.0027777777777778in"}
+![](../logos/PTI-Logo11.png)
 
 Na tela meus feedbacks é adicionar um novo item, inserindo titulo,
 descrição e imagem. É possivel acompanhar os feedbacks enviados.
@@ -2636,36 +2710,37 @@ No menu auxiliar, temos disponível a sessão customização, onde podemos
 ajustar alguma preferencias do sistema. Está dividido em Temas e Tela de
 Início.
 
-![](../logos/image112.png){width="2.75in"
-height="2.031943350831146in"}
+![](../logos/PTI-Logo12.png)
 
 **2.10.1 Temas**
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image113.png){width="6.270833333333333in"
-height="1.8541666666666667in"}
+![](../logos/PTI-Logo13.png)
 
 Na aba Tema Padrão, podemos alterar entre os temas disponíveis,
 customizando as cores do sistema.
@@ -2677,8 +2752,7 @@ logo.
 
 **2.10.2 Tela Inicial**
 
-![](../logos/image114.png){width="6.270833333333333in"
-height="1.9916666666666667in"}
+![](../logos/PTI-Logo14.png)
 
 Na Tela de Início podemos ajustar o idioma, hoje temos a opção de
 português e inglês e salvar uma mensagem.
@@ -2689,31 +2763,33 @@ Política de privacidade, Termo de uso da aplicação, Termo de autorização
 para uso geral de imagem, termo de autorização para participação no
 evento e Termo de uso da API do sistema.
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
-![](../logos/image115.png){width="2.363888888888889in"
-height="5.0in"}
+![](../logos/PTI-Logo15.png)
 
 **2.11.1 Política De Privacidade Do Sistema Web De Gerenciamento De
 Eventos (Swge) - Latinoware**
@@ -2733,28 +2809,31 @@ dezembro de 2022. Contém os seguintes tópicos:
 - Consentimento
 - Considerações Finais
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
 **2.11.2 Termos de Uso da Aplicação**
 
@@ -2792,28 +2871,31 @@ em dezembro de 2022. Contém os seguintes tópicos:
 - Comunicação
 - Disposições Gerais
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
 
-+-----------------+-----------------+-----------------+-----------------+
-| > ![            | **Projeto**     | **Data**        | **Revisão**     |
-| ](vertopal_a165 |                 |                 |                 |
-| 9ad196d9491a99b |                 |                 |                 |
-| 2a51d64291c06/m |                 |                 |                 |
-| edia/image1.png |                 |                 |                 |
-| ){width="1.2486 |                 |                 |                 |
-| 111111111111in" |                 |                 |                 |
-| >               |                 |                 |                 |
-| height="0.60833 |                 |                 |                 |
-| 33333333333in"} |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 | LATINOWARE      | 31/12/2022      | 01              |
-+-----------------+-----------------+-----------------+-----------------+
-| > **            |                 |                 |                 |
-| DOCUMENTAÇÃOFIN |                 |                 |                 |
-| AL-LATINOWARE** |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+<table style="width: 100%">
+<thead style="width: 100%">
+  <tr style="width: 100%">
+    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
+    <th style="width: 100%">Projeto</th>
+    <th style="width: 100%">Data</th>
+    <th style="width: 100%">Revisão</th>
+  </tr>
+  <tr>
+    <th>LATINOWARE</th>
+    <th>31/12/2022</th>
+    <th>01</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
+  </tr>
+</tbody>
+</table>
 
 **2.11.4 Termo de Autorização Para Uso Geral da Imagem**
 
@@ -2833,6 +2915,7 @@ menor no evento. Contém os seguintes tópicos:
 - Termos e Condições
 - Concessão
 
-![](../logos/image2.png){width="0.7527777777777778in"
-height="0.5430544619422573in"}![](../logos/image3.png){width="1.0791655730533682in"
-height="0.5208333333333334in"}
+<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<img src="../logos/IB2-Logo.png" width="75px"/>
+<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
+</div>
