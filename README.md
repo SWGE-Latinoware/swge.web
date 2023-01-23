@@ -39,6 +39,9 @@ A partir de *clone* (`git clone https://github.com/ta-iot/swge.web.git`), é nec
 - Ambiente de Desenvolvimento voltado a desenvolvimento Web (WebStorm, Visual Studio Code, Intellij, etc..);
 - API instalada e rodando.
 
+## __Usabilidade__
+Foi disponibilizado um documento contendo os fluxos de caso de uso do sistema, dados utilizados, e descrições das funcionalidades. O arquivo se encontra [aqui](/.github/docs/document-usability.markdown)
+
 ## __Variáveis de Ambiente:__
 Para a execução de algumas funcionalidades dentro sistema, é necessário a utilização de algumas variáveis de ambiente, que servem para repassar as credenciais ou informações dinâmicas. Elas são:
 - __LGPD_LINK__: Link para a página aonde se concentra as informações sobre as diretrizes e contatos da LGPD responsáveis do projeto ou instituição;
