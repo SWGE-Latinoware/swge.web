@@ -40,7 +40,7 @@ A partir de *clone* (`git clone https://github.com/ta-iot/swge.web.git`), é nec
 - API instalada e rodando.
 
 ## __Usabilidade__
-Foi disponibilizado um documento contendo os fluxos de caso de uso do sistema, dados utilizados, e descrições das funcionalidades. O arquivo se encontra [aqui](/.github/docs/document-usability.markdown)
+Foi disponibilizado um documento contendo os fluxos de caso de uso do sistema, dados utilizados, e descrições das funcionalidades. O arquivo se encontra [aqui](/.github/docs/document-usability.md)
 
 ## __Variáveis de Ambiente:__
 Para a execução de algumas funcionalidades dentro sistema, é necessário a utilização de algumas variáveis de ambiente, que servem para repassar as credenciais ou informações dinâmicas. Elas são:
