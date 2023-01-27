@@ -25,32 +25,6 @@
 
 **Versão 1.1**
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
-
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
-
 ***EQUIPE RESPONSÁVEL***
 
 ***Desenvolvimento***
@@ -84,31 +58,6 @@
 - [Marcos Siríaco](./../../README.md#colaboradores)
 - [Luciano Lourenço Da Silva](./../../README.md#colaboradores)
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
-
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
 
 **1.** **INTRODUÇÃO**                  
 
@@ -130,32 +79,6 @@ em feedback e após em meus feedbacks.
 Selecionando a setinha que fica no canto superior direito o usuário
 poderá acessar os dados de sua conta ou poderá sair de sua conta.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
-
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
-
 ![](../logos/image5.png)
 
 Clicando na bandeira que fica ao lado da setinha podemos alterar o
@@ -170,31 +93,6 @@ mudar para o modo escuro.
 
 ![](../logos/image7.png)
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
-
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
 
 ![](../logos/image8.png)
 
@@ -202,32 +100,6 @@ Clicando no número 2222 poderemos ver uma lista de todas as edições do
 momento, nela podemos selecionar a edição que queremos.
 
 ![](../logos/image9.png)
-
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
-
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
 
 Selecionando o ponto de interrogação teremos acesso a opção de ajuda, ao
 clicarmos sobre ela uma mão azul surgirá apontando para a setinha e ao
@@ -247,31 +119,6 @@ que poderemos ter acesso a todas as opções e funcionalidades do sistema.
 Selecionando o menu auxiliar teremos acesso a opção minha conta, nela o
 usuário preencherá todas as suas informações pessoais.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
-
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
 
 ![](../logos/image12.png)
 
@@ -290,31 +137,9 @@ Descendo um pouco mais a tela teremos acesso a opção de editar perfil.
 
 ![](../logos/image14.png)
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 Clicando nela o usuário será direcionado à esta tela, aqui ele poderá
 fazer a alteração de suas informações bem como adicionar mais algum
@@ -336,31 +161,9 @@ Ao selecionarmos o menu auxiliar teremos acesso a opção meus
 certificados, aqui os usuários poderão ver todos os certificados que
 eles têm disponível.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image17.png)
 
@@ -381,31 +184,9 @@ usuários poderão ver todas as colunas, caso ele queira procurar por uma
 informação em específico ele poderá marcar a opção a qual ela pertence e
 desmarcar as demais.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image20.png)
 
@@ -421,31 +202,9 @@ usuário e a gerenciar inscrições.
 Nesta tela nos é apresentado o nome do usuário bem como o nome que ele
 escolheu para pôr em seu crachá.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image22.png)
 
@@ -460,31 +219,9 @@ filtrar pelo nome de um usuário em específico.
 Já nesta tela temos as mesmas opções do item acima, muda apenas que
 nesta terá apenas usuários tutelados.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image23.png)
 
@@ -499,31 +236,9 @@ filtrar pelo nome de um usuário em específico.
 Aqui podemos ver o nome das caravanas e também o número de usuários
 cadastrados em cada uma delas.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image24.png)
 
@@ -545,31 +260,9 @@ mais um pouco para baixo teremos uma última opção a isentar, se for
 desejado isentar o usuário poderá marcar a caixa, caso não esta opção
 ficará desmarcada.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image25.png)
 
@@ -594,31 +287,9 @@ informação em específico ele poderá marcar uma coluna e desmarcar as
 demais. Selecionando a última opção o usuário poderá filtrar pelo nome
 de usuário e pela situação do pagamento.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image26.png)
 
@@ -634,31 +305,9 @@ acima, muda apenas que o usuário deverá entregar ao seu responsável um
 termo de autorização para que assim ele possa prosseguir com sua
 inscrição.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image28.png)
 
@@ -669,31 +318,9 @@ a um submenu com oito opções dentro dela, a usuários, caravanas,
 instituições, edições, atividades, trilhas, certificados e por fim
 vouchers.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image29.png)
 
@@ -701,31 +328,9 @@ vouchers.
 Nesta tela poderemos ver o nome do usuário, o nome que ele colocou em
 seu usuário, o e se ele está ou não habilitado.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image30.png)
 
@@ -738,31 +343,9 @@ Selecionando a lupa que fica no canto superior direito podemos fazer uma
 busca por um usuário em específico utilizando as informações que foram
 cadastradas por ele.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image32.png)
 
@@ -782,31 +365,9 @@ se selecionado algum campo que não queira ele poderá desmarcar clicando
 na opção limpar que fica logo após a escrita filtros e marcar o campo
 correto.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image34.png)
 
@@ -827,31 +388,9 @@ marcado.
                                 
 - **Enviar informações da Latinoware por e-mail:** Marcando essa caixa o usuário receberá as informações do evento em seu e-mail.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image35.png)
 
@@ -908,31 +447,9 @@ cadastradas.
 
 ![](../logos/image37.png)
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 Selecionando a lupa que fica no canto superior direito podemos fazer uma
 busca por uma caravana em específico utilizando o país, estado, a
@@ -954,31 +471,9 @@ determinada informação de uma das caravanas em específico ele poderá
 marcar um dos campos de algumas das seções abaixo e após ir em aplicar
 filtro, e se
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 selecionado algum campo que não queira ele poderá desmarcar clicando na
 opção limpar que fica logo após a escrita filtros e marcar o campo
@@ -994,31 +489,9 @@ quantidade de vagas, o seu preço o seu tipo. Com todas as informações
 preenchidas corretamente o usuário poderá clicar em salvar para assim
 adicionar uma nova caravana.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image40.png)
 
@@ -1033,31 +506,9 @@ Selecionando a lupa que fica no canto superior direito podemos fazer uma
 busca por uma instituição em específico utilizando o país, estado ou
 também pelo nome da cidade a qual a mesma pertence.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image32.png)
 
@@ -1076,31 +527,9 @@ algumas das seções abaixo e após ir em aplicar filtro, e se selecionado
 algum campo que não queira ele poderá desmarcar clicando na opção limpar
 que fica logo após a escrita filtros e marcar o campo correto.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image43.png)
 
@@ -1119,31 +548,9 @@ número.
 
 ![](../logos/image32.png)
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 Já utilizando a opção que está ao lado da lupa poderemos ver as colunas,
 caso o usuário busque por uma informação em específico poderá deixar
@@ -1159,31 +566,9 @@ espaço informando seu nome e número, logo após clicamos em inserir.
 
 ![](../logos/image46.png)
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 Ao clicarmos no lápis que fica logo após o habilitado, poderemos
 atualizar as informações já cadastradas.
@@ -1199,31 +584,9 @@ ainda ocorrerá e se está ou não habilitada.
 Selecionando a lupa que fica no canto superior direito podemos fazer uma
 busca por uma edição em específico utilizando o seu nome ou ano.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image32.png)
 
@@ -1243,31 +606,9 @@ selecionado algum campo que não queira ele poderá desmarcar clicando na
 opção limpar que fica logo após a escrita filtros e marcar o campo
 correto.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image50.png)
 
@@ -1282,31 +623,9 @@ ocorrer e se está habilitada.
 Ao clicarmos no lápis que fica logo após o habilitado, poderemos
 atualizar as informações já cadastradas.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image52.png)
 
@@ -1326,31 +645,9 @@ atividade em específico utilizando o nome, trilha e pelo seu valor.
 
 ![](../logos/image32.png)
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 Já utilizando a opção que está ao lado da lupa poderemos ver as colunas,
 caso o usuário busque por uma informação em específico poderá deixar
@@ -1368,31 +665,9 @@ e após ir em aplicar filtro, e se selecionado algum campo que não queira
 ele poderá desmarcar clicando na opção limpar que fica logo após a
 escrita filtros e marcar o campo correto.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image55.png)
 
@@ -1405,31 +680,9 @@ dos palestrantes, o local que ocorrerá, sua trilha e a descrição da
 atividade. Após todos os campos estiverem preenchido corretamente
 poderemos salvá-la.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image56.png)
 
@@ -1438,31 +691,9 @@ atualizar as informações já cadastradas.
 
 ![](../logos/image57.png)
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image58.png)
 
@@ -1473,31 +704,9 @@ nas de todos os outros países onde o evento também estiver ocorrendo.
 
 ![](../logos/image59.png)
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 E ao descermos um pouco mais a tela teremos acesso às trilhas, cada
 atividade pertencerá a uma destas 8 trilhas.
@@ -1525,31 +734,9 @@ cadastrados no sistema, caso seja preciso procurar por uma determinada
 informação de uma das trilhas em específico ele poderá marcar um dos
 campos
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 de algumas das seções abaixo e após ir em aplicar filtro, e se
 selecionado algum campo que não queira ele poderá desmarcar clicando na
@@ -1567,31 +754,9 @@ corretamente poderemos salvá-la.
 
 ![](../logos/image63.png)
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 Ao clicarmos no lápis que fica logo após o habilitado, poderemos atualizar as informações já cadastradas.
 
@@ -1604,31 +769,9 @@ Ao clicarmos no lápis que fica logo após o habilitado, poderemos atualizar as 
 Nesta tela teremos acesso ao nome do certificado e se ele está ou não
 disponível.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 Selecionando a lupa que fica no canto superior direito podemos fazer uma
 busca por um certificado em específico utilizando o seu nome.
@@ -1649,31 +792,9 @@ aplicar filtro, e se selecionado algum campo que não queira ele poderá
 desmarcar clicando na opção limpar que fica logo após a escrita filtros
 e marcar o campo correto.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image67.png)
 
@@ -1688,31 +809,9 @@ certificado.
 Selecionando a lupa que fica no canto superior direito podemos fazer uma
 busca por um conteúdo em específico utilizando seu próprio nome.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image32.png)
 
@@ -1732,31 +831,9 @@ filtros e marcar o campo correto.
 
 ![](../logos/image70.png)
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 Selecionando a opção ajuda ou (o ponto de interrogação) aparecerá uma
 janela de ajuda explicando um pouco sobre as informações contidas ali.
@@ -1770,31 +847,9 @@ a família da fonte, escolhendo a cor do texto e abaixo escrevendo uma
 breve descrição sobre o conteúdo. Após todos os campos estiverem
 preenchidos corretamente podemos inseri-lo.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image72.png)
 
@@ -1806,31 +861,9 @@ formações estiverem preenchidas corretamente poderemos salvar.
 
 ![](../logos/image74.png)
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image75.png)
 
@@ -1851,31 +884,9 @@ da edição e pelo
 
 ano da edição.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image32.png)
 
@@ -1895,31 +906,9 @@ em aplicar filtro, e se selecionado algum campo que não queira ele
 poderá desmarcar clicando na opção limpar que fica logo após a escrita
 filtros e marcar o campo correto.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image78.png)
 
@@ -1936,31 +925,9 @@ selecionando a setinha que fica no canto superior direito nos será
 apresentado um submenu com outras duas opções que se encontram dentro
 dela, a coordenar caravanas e a participar de caravanas.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image80.png)
 
@@ -1987,31 +954,9 @@ serem menores de idade.
 
 ![](../logos/image81.png)
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 **2.6.2 Gerenciar Caravanas**\
 Nesta tela temos algumas outras opções como, informações da caravana,
@@ -2032,31 +977,9 @@ efetuou o pagamento.
 inscritos na caravana e também os seus dados, se já efetuaram o
 pagamento de sua inscrição e se ela já foi confirmada.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image84.png)
 
@@ -2091,31 +1014,9 @@ caravana.
 
 - **Situação da aceitação:** Se o pedido da inscrição foi aceito ou não.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 Se acaso o usuário desejar procurar por uma caravana em específico ele
 poderá clicar na lupa que fica no canto superior direito.
@@ -2131,62 +1032,18 @@ Aqui ele poderá marcar e desmarcar as colunas que ele gostaria de ver,
 caso esteja procurando por uma informação em específica ele poderá
 marcar a coluna a que a mesma pertence e desmarcar as demais.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 Aqui o usuário poderá filtrar as informações pelo vagas, a e pela
 instituição a qual a caravana pertence.
 
 ![](../logos/image88.png)
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image89.png)
 
@@ -2201,31 +1058,9 @@ selecionando a setinha que fica no canto superior direito teremos acesso
 ao submenu com outras duas opções dentro dela, a gerenciar inscrições e
 a minha inscrição.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image91.png)
 
@@ -2253,31 +1088,9 @@ informações da
 inscrição e logo abaixo será apresentado as atividades em que o usuário
 se inscreveu.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image27.png)
 
@@ -2295,31 +1108,9 @@ Aqui ele poderá marcar e desmarcar as colunas que ele gostaria de ver,
 caso esteja procurando por uma informação em específica ele poderá
 marcar a coluna a que a mesma pertence e desmarcar as demais.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 Já aqui o usuário poderá filtrar as informações tanto pelo nome do
 usuário quanto pela situação do pagamento caravana.
@@ -2332,31 +1123,9 @@ acima, muda apenas que o usuário deverá entregar ao seu responsável um
 termo de autorização para que assim ele possa prosseguir com sua
 inscrição.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image28.png)
 
@@ -2372,31 +1141,9 @@ tela onde poderá ser inserido um valor promocional.
 
 ![](../logos/image96.png)
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 **2.7.4 Minha Inscrição**
 
@@ -2415,31 +1162,9 @@ um dia anterior.
 Clicando nas três barrinhas que ficam ao lado do mês podemos fazer uma
 pesquisa pelo local, trilha, palestrante e pelo responsável.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/image98.png)
 
@@ -2457,31 +1182,9 @@ cartão de crédito ou de débito.
 
 **Pag Seguro:**
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/PTI-Logo01.png)
 
@@ -2502,31 +1205,9 @@ selecionando a setinha que fica no canto superior direito teremos acesso
 ao submenu com outras três opções dentro dela, a grade geral, grade do
 palestrante e a minha grade.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 > ![](../logos/PTI-Logo03.png)
 
@@ -2546,31 +1227,9 @@ responsável.
 E ao descermos um pouco mais a tela teremos acesso às trilhas, cada
 atividade pertencerá a uma destas 8 trilhas.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/PTI-Logo05.png)
 
@@ -2589,31 +1248,9 @@ Em Minha grade nos é apresentado as mesmas opções que no grade de
 palestrante, com a inserção de duas novas opções que podem ser vistas ao
 lado das três barras e no canto inferior direito.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/PTI-Logo07.png)
 
@@ -2630,31 +1267,9 @@ sistema. A sessão está dívida em Gerenciar Feedbacks e Meus Feedbacks.
 
 ![](../logos/PTI-Logo08.png)
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 **2.9.1 Gerenciar Feedbacks**
 
@@ -2674,31 +1289,9 @@ Também é possível baixar imagens que o usuário tenha enviado.
 
 ![](../logos/PTI-Logo10.png)
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/PTI-Logo11.png)
 
@@ -2714,31 +1307,9 @@ Início.
 
 **2.10.1 Temas**
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/PTI-Logo13.png)
 
@@ -2763,31 +1334,9 @@ Política de privacidade, Termo de uso da aplicação, Termo de autorização
 para uso geral de imagem, termo de autorização para participação no
 evento e Termo de uso da API do sistema.
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 ![](../logos/PTI-Logo15.png)
 
@@ -2809,31 +1358,9 @@ dezembro de 2022. Contém os seguintes tópicos:
 - Consentimento
 - Considerações Finais
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 **2.11.2 Termos de Uso da Aplicação**
 
@@ -2871,31 +1398,9 @@ em dezembro de 2022. Contém os seguintes tópicos:
 - Comunicação
 - Disposições Gerais
 
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
-<img src="../logos/IB2-Logo.png" width="75px"/>
-<img src="../logos/PTI2-Logo.png" width="150px" style="margin-left: 15px"/>
-</div>
 
-<table style="width: 100%">
-<thead style="width: 100%">
-  <tr style="width: 100%">
-    <th rowspan="2" style="width: 100%"><img src="../logos/PTI-Logo.png" width="300px"/></th>
-    <th style="width: 100%">Projeto</th>
-    <th style="width: 100%">Data</th>
-    <th style="width: 100%">Revisão</th>
-  </tr>
-  <tr>
-    <th>LATINOWARE</th>
-    <th>31/12/2022</th>
-    <th>01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="4" style="text-align: center">DOCUMENTAÇÃO FINAL - LATINOWARE</td>
-  </tr>
-</tbody>
-</table>
+
+
 
 **2.11.4 Termo de Autorização Para Uso Geral da Imagem**
 
