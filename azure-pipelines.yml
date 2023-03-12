@@ -5,7 +5,7 @@ resources:
       name: SRE/HIAE.SRE.Templates
       ref: refs/heads/master
 stages:
-- template: catalog/openshift-angular-v4.yml@templates
+- template: catalog/openshift-nodejs-v4.yml@templates
 trigger:
 - develop*
 - hotfix
