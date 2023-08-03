@@ -2,7 +2,7 @@
   <picture>
     <img align="center" src="/metrics.plugin.licenses.svg" alt="Licenças">
   </picture>
-  <a target="_blank" href="https://github.com/ta-iot/swge.api">
+  <a target="_blank" href="https://github.com/SWGE-Latinoware/swge.api">
     <img align="center" src="/metrics.plugin.repositories.svg" alt="Repositórios Vinculados">
   </a>
 </div>
@@ -31,7 +31,7 @@ Front-End desenvolvido em ReactJS(v17) para o projeto SWGE. Um projeto que tem c
 ## __Instalação__
 Para a utilização do Front-End, é necessário possuir na máquina a qual vai armazenar e executar o projeto certos serviços, que são indicados na seção de Requisitos.
 
-A partir de *clone* (`git clone https://github.com/ta-iot/swge.web.git`), é necessário a execução da instalação dos módulos escolhidos dentro do arquivo `package.json`, neste caso utilizando o comando `npm install`. 
+A partir de *clone* (`https://github.com/SWGE-Latinoware/swge.web.git`), é necessário a execução da instalação dos módulos escolhidos dentro do arquivo `package.json`, neste caso utilizando o comando `npm install`. 
 
 ### __Requisitos:__
 
